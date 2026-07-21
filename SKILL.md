@@ -260,3 +260,32 @@ license: MIT
 2. Tang LL, et al. Neck target volume delineation for NPC. *Lancet Oncol*. 2025. PMID:40907527.
 3. Lin SJ, et al. International Consensus Guideline (2024 Version). *Int J Radiat Oncol Biol Phys*. 2025. PMID:40419028.
 4. AJCC/UICC 9th Edition. Nasopharyngeal Carcinoma Staging. 2025.
+
+
+---
+
+## 附：靶区规划摘要（可复制粘贴入首次病程录）
+
+> 治疗前写入住院病史"诊疗计划"。NPC 特有：GTV 0mm 逐级 5mm、岩尖+卵圆孔双侧、III 区前界=胸锁乳突肌后缘。
+
+```
+═══════════════════════════════
+  放疗靶区规划
+═══════════════════════════════
+诊断：鼻咽癌 pT__N__M__（AJCC 第 9 版）
+EBV DNA：______ copies/mL
+方案：□ 根治性 RT  □ 术后 PORT
+
+处方：
+  GTV-P / GTV-N：______ Gy / ______ fx
+  CTV-H（GTV+5mm）：______ Gy
+  CTV-I（高危 ENI）：______ Gy
+  CTV-L（低危 ENI）：______ Gy
+
+双侧 RP：□ 照  双侧 Ⅱ-Ⅴ：□ 照
+岩尖+卵圆孔：□ 双侧  □ 偏心豁免
+Ⅲ 区前界=胸锁乳突肌后缘
+
+主治：______  日期：______
+═══════════════════════════════
+```
