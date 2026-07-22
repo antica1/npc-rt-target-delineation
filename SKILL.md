@@ -1,6 +1,6 @@
 ---
 name: npc-rt-target-delineation
-description: "Precision target volume delineation for nasopharyngeal carcinoma radiotherapy — skull base foramina, cavernous sinus, stepwise CTV construction per Lancet 2025 and IG-2024 International Guidelines."
+description: "鼻咽癌NPC放疗靶区勾画——颅底孔道、海绵窦、逐级CTV构建。Lancet 2025 & IG-2024。Precision NPC target volume delineation — skull base foramina, cavernous sinus, stepwise CTV."
 version: 1.2.0
 author: Zhu Guopei / Shanghai Ninth People's Hospital
 license: MIT
