@@ -426,3 +426,36 @@ nmetadata:
 2. Tang LL, et al. Neck target volume delineation for NPC. *Lancet Oncol*. 2025. PMID:40907527.
 3. Lin SJ, et al. International Consensus Guideline (2024 Version). *Int J Radiat Oncol Biol Phys*. 2025. PMID:40419028.
 4. AJCC/UICC 9th Edition. Nasopharyngeal Carcinoma Staging. 2025.
+
+
+---
+
+## 附：靶区规划摘要（可复制粘贴入首次病程录）
+
+> 治疗前写入住院病史"诊疗计划"。只列实际使用的 CTV 层级，每层附理由。豁免区和加量区均说明原因。NPC 特有：GTV 0mm 逐级 5mm、岩尖+卵圆孔双侧、III 区前界=胸锁乳突肌后缘。
+
+```
+═══════════════════════════════
+  放疗靶区规划
+═══════════════════════════════
+诊断：鼻咽癌  pT__N__M__（AJCC 第 9 版）
+EBV DNA：______ copies/mL
+分期判断：______（为何 T__ 而非 T__：______）
+
+方案：□ 根治性 RT  □ 术后 PORT   ___ fx
+
+GTV-P / GTV-N：______ Gy
+CTV-H（GTV+5mm）：______ Gy
+CTV-I（高危 ENI）：______ Gy
+CTV-L（低危 ENI）：______ Gy
+
+双侧 RP：□ 照  双侧 Ⅱ-Ⅴ：□ 照
+岩尖+卵圆孔：□ 双侧  □ 偏心豁免
+Ⅲ 区前界=胸锁乳突肌后缘
+加量：______  ___ Gy（理由：□脉络膜/海绵窦侵犯  □颅底骨侵犯  □R1/R2）
+
+主治：______  日期：______
+═══════════════════════════════
+
+注：四类加量指征：①R1/R2切缘 ②ENE+淋巴结 ③手术不易切净区 ④T4/N3临近颅底/脑膜/眼眶/颈动脉。NPC 根治性 RT 的 GTV 外放 0mm（逐级 CTV 体系），CTV-H = GTV+5mm。
+```
