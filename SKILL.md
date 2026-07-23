@@ -7,11 +7,44 @@ license: MIT
 nmetadata:
   hermes:
     tags: [head-neck, radiotherapy, target-delineation]
+    triggers_on:
+      - 鼻咽癌
+      - NPC
+      - 鼻咽
+      - 咽隐窝
+      - 鼻咽靶区
+      - 鼻咽放疗
+      - 鼻咽勾画
+      - 颅底孔道
+      - 海绵窦
+      - Rosenmüller
+      - nasopharynx
+      - Lancet 2025
+      - IG-2024
+      - 鼻咽癌靶区
 ---
 
 # 鼻咽癌精准靶区勾画 — 解剖参考手册
 
 > Lancet 2025 & IG-2024 · AJCC/UICC 9th | 朱国培 · 上海九院
+
+---
+
+## 铁律清单
+
+| # | 铁律 | 触发条件 |
+|---|------|----------|
+| 1 | GTV 0mm+逐级5mm外放 | 所有NPC根治性RT |
+| 2 | 岩尖+卵圆孔双侧覆盖 | 所有NPC（九院规范） |
+| 3 | III区前界=胸锁乳突肌后缘 | 所有NPC颈预防 |
+| 4 | RP外侧双侧必照 / RP内侧仅受累时 | 所有NPC（Mao et al. BMJ 2023） |
+| 5 | CTVnd上界至颈静脉孔颅底 | 所有NPC颈预防 |
+| 6 | VI区常规豁免（3100例0%转移） | 初诊NPC（除外IVb/Vc广泛/复发/侵犯下咽） |
+| 7 | 口腔侵犯≠T3（T1/T2分水岭=咽旁间隙） | 口腔/口咽黏膜侵犯分期判断 |
+| 8 | 3100例NPC各分区转移率速查 | 颈部预防决策 |
+| 9 | 诱导化疗后GTV用化疗前范围+化疗后残留 | 诱导化疗后勾画 |
+| 10 | ENE=N3（一票升级） | 影像/病理ENE阳性（RP除外） |
+| 11 | 选择性豁免下颈（马骏Lancet Oncol 2022） | N0-N1期豁免阴性侧IV/Vb |
 
 ---
 
